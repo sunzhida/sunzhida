@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Currently, I am a Ph.D. candidate at Human-Computer Interaction Initiative, Department of Computer Science and Engineering (CSE), Hong Kong University of Science and Technology (HKUST). I am under the supervision of Prof. Xiaojuan Ma. Prior to that, I obtained my master degree (M.Sc.) in Information Systems from Hong Kong Polytechnic University (PolyU) and my bachelor degree (B.B.A.) in Management Information Systems from Northeastern University (NEU). My major research interest is Human-Engaged Computing, including:
+
+* Bridging the gulfs among human-computer communications with __metaphors__
+* Assisting exploratory and explanatory data analysis with __visualization__ and __storytelling__ techniques
+* Fostering user engagement and wellbeing in a digital experience with __positive computing__
+
+I am available on the job market.
+
 <!--
 **sunzhida/sunzhida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
