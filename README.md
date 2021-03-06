@@ -6,7 +6,7 @@ I obtain my Ph.D. from Human-Computer Interaction Initiative, Department of Comp
 * Assisting exploratory and explanatory data analysis with __visualization__ and __storytelling__ techniques
 * Fostering user engagement and wellbeing in a digital experience with __positive computing__
 
-I am available on the job market.
+Feel free to drop me a line!
 
 <!--
 **sunzhida/sunzhida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
