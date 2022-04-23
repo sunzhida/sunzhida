@@ -8,7 +8,7 @@ I obtain my Ph.D. from Human-Computer Interaction Initiative, Department of Comp
 * Fostering __user engagement__ and __wellbeing__ in a digital experience with positive computing
 
 Feel free to drop me a line!
-- 📫 How to reach me: zhida.sun@connect.ust.hk
+- 📫 How to reach me: zhida.sun(_at_)connect(_dot_)ust(_dot_)hk
 
 <!--
 **sunzhida/sunzhida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
