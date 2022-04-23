@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I obtain my Ph.D. from Human-Computer Interaction Initiative, Department of Computer Science and Engineering (CSE), Hong Kong University of Science and Technology (HKUST). I am under the supervision of Prof. Xiaojuan Ma. Prior to that, I obtained my master's degree (M.Sc.) in Information Systems from Hong Kong Polytechnic University (PolyU) and my bachelor's degree (B.B.A.) in Management Information Systems from Northeastern University (NEU). My primary research interest lies in __Human-Engaged Computing__. I focus on
+I obtain my Ph.D. from the Human-Computer Interaction Initiative, Department of Computer Science and Engineering (CSE), Hong Kong University of Science and Technology (HKUST). I am under the supervision of Prof. Xiaojuan Ma. Prior to that, I obtained my master's degree (M.Sc.) in Information Systems from Hong Kong Polytechnic University (PolyU) and my bachelor's degree (B.B.A.) in Management Information Systems from Northeastern University (NEU). My primary research interest lies in __Human-Engaged Computing__. I focus on
 
 * Bridging the gulfs among human-computer communications with __metaphors__
 * Assisting exploratory and explanatory data analysis with __visualization__ and __storytelling__ techniques
