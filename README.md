@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I obtain my Ph.D. from Human-Computer Interaction Initiative, Department of Computer Science and Engineering (CSE), Hong Kong University of Science and Technology (HKUST). I am under the supervision of Prof. Xiaojuan Ma. Prior to that, I obtained my master degree (M.Sc.) in Information Systems from Hong Kong Polytechnic University (PolyU) and my bachelor degree (B.B.A.) in Management Information Systems from Northeastern University (NEU). My major research interest is Human-Engaged Computing, including:
+I obtain my Ph.D. from Human-Computer Interaction Initiative, Department of Computer Science and Engineering (CSE), Hong Kong University of Science and Technology (HKUST). I am under the supervision of Prof. Xiaojuan Ma. Prior to that, I obtained my master degree (M.Sc.) in Information Systems from Hong Kong Polytechnic University (PolyU) and my bachelor degree (B.B.A.) in Management Information Systems from Northeastern University (NEU). My major research interest lies in __Human-Engaged Computing__. I focus on
 
 * Bridging the gulfs among human-computer communications with __metaphors__
 * Assisting exploratory and explanatory data analysis with __visualization__ and __storytelling__ techniques
 * Leveraging sensor-captured signals to maintain users' __physical__ and __mental health__ automatically
-* Fostering __user engagement__ and __wellbeing__ in a digital experience with __positive computing__
+* Fostering __user engagement__ and __wellbeing__ in a digital experience with positive computing
 
 Feel free to drop me a line!
 - 📫 How to reach me: zhida.sun@connect.ust.hk
