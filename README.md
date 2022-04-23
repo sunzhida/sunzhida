@@ -4,9 +4,11 @@ I obtain my Ph.D. from Human-Computer Interaction Initiative, Department of Comp
 
 * Bridging the gulfs among human-computer communications with __metaphors__
 * Assisting exploratory and explanatory data analysis with __visualization__ and __storytelling__ techniques
-* Fostering user engagement and wellbeing in a digital experience with __positive computing__
+* Leveraging sensor-captured signals to maintain users' __physical__ and __mental health__ automatically
+* Fostering __user engagement__ and __wellbeing__ in a digital experience with __positive computing__
 
 Feel free to drop me a line!
+- 📫 How to reach me: zhida.sun@connect.ust.hk
 
 <!--
 **sunzhida/sunzhida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
